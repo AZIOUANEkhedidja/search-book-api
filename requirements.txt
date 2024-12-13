@@ -1,0 +1,8 @@
+opencv-python
+numpy
+scikit-learn
+scikit-image
+keras
+matplotlib
+flask
+werkzeug
